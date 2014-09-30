@@ -6,7 +6,7 @@
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>test-goeuro</name>
-	<description>The evaluation test for GoEuro</description>
+	<description>A Java test application that gets geo position coordonates of a certain location</description>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
